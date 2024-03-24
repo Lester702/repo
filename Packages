@@ -1,66 +1,17 @@
-Package: com.teslaman3092.artfull
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Ethan Whited, tesla_man
-Installed-Size: 456
-Conflicts: com.nahtedetihw.artfull
-Filename: ./debs/com.teslaman3092.artfull_1.3_iphoneos-arm.deb
-Size: 55420
-MD5sum: c1566adb1be91accb187087caa497b74
-SHA1: 9a04f31f76cf0d7ee2fa08459141ed8f1b9c2185
-SHA256: 4456701b3e3985ad3a00e4d6b4c478dd26b540dde2ba81669fefa658b069a22f
-Section: Tweaks
-Description: Make the Apple Music and Podcasts app look like iOS 17! Plus make LS player and CC player look like IOS 16! And be sure to get 16Player at Chariz repo s0n!!!
-Author: Ethan Whited, tesla_man
-Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
-Name: ArtFull (Forked by tesla_man)
-
-Package: com.teslaman3092.artfull
-Version: 1.3
+Package: com.synncom.statusbardateformatter
+Version: 0.0.1-16+debug
 Architecture: iphoneos-arm64
-Maintainer: Ethan Whited, tesla_man
-Installed-Size: 456
-Conflicts: com.nahtedetihw.artfull
-Filename: ./debs/com.teslaman3092.artfull_1.3_iphoneos-arm64.deb
-Size: 55438
-MD5sum: 3e17bbd4026525d8b1ad87e507368113
-SHA1: f23c48bb6c0e9fc4b797e43940c1077e87065efe
-SHA256: ce60a839c770cac234a78669a79370f0093d8626c691b7439410890658955f96
-Section: Tweaks
-Description: Make the Apple Music and Podcasts app look like iOS 17! Plus make LS player and CC player look like IOS 16! And be sure to get 16Player at Chariz repo s0n!!!
-Author: Ethan Whited, tesla_man
-Icon: https://camo.githubusercontent.com/0776384d0ff2fb7cf3ffc978fac70648ef0e8033d6070ace65a11bede364ef43/68747470733a2f2f692e6962622e636f2f6d52436a3476462f4172742d46756c6c2d49636f6e2e706e67
-Name: ArtFull (Forked by tesla_man)
-
-Package: com.teslaman3092.hideroutingbutton
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: teslaman3092
-Installed-Size: 152
+Maintainer: Lester702 <loganmaderia@gmail.com>
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.teslaman3092.hideroutingbutton_1.0.0_iphoneos-arm64.deb
-Size: 3374
-MD5sum: bc8d100016d1c914a429ec874df453f5
-SHA1: 6e6efd93d5d3759faa80d0c632d2d9fd1d8dbecb
-SHA256: 34b8b94aed19bdc2c18444e671d3e9224d1342b912812ff8a020e4e209a77620
+Filename: ./debs/com.synncom.statusbardateformatter_0.0.1-16+debug_iphoneos-arm64.deb
+Size: 4696
+MD5sum: 227a8f68372fca80980936c7ae7d8a82
+SHA1: 461af03e32d5301ac55d81c3ea3879b0ed99a7f3
+SHA256: 586596751227df5977bc3e9733b14fd3f43b4e7bed797ef694d8e9c52b933359
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
-Author: teslaman3092
-Name: hideRoutingButton
-
-Package: com.teslaman3092.hideroutingbutton
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: teslaman3092
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.teslaman3092.hideroutingbutton_1.0.0_iphoneos-arm.deb
-Size: 3308
-MD5sum: d1a8b79268c20fc144b9ab379b385c2b
-SHA1: fdd3ca0fb949343188310755792c1d692057e278
-SHA256: a4a6ddbdfe6919f7d65bfaaa7fc09e8a2fb12699bb290721a1389d0ebd9fe37b
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: teslaman3092
-Name: hideRoutingButton
+Author: Lester702 <loganmaderia@gmail.com>
+Depiction: https://www.synncom.com/repository/depictions/?p=com.synncom.statusbardateformatter
+Name: StatusBarDateFormatter
 
